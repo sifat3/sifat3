@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate in new startups
 - 📫 How to reach me - 
       phone - +8801722944288
-      mail - ahsifat321@gmail.com
+      email - ahsifat321@gmail.com
 
