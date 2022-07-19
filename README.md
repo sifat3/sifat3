@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sifat3
+- 👋 Hi, I’m @Ashraful Haque Sifat
 - 👀 I’m interested in Machine Learning and AI with python
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate in new startups
