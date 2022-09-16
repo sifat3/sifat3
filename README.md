@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ashraful Haque Sifat
-- 👀 I’m interested in Machine Learning and AI with python
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate in new startups
+- 👀 My Portfolio - ______.com
 - 📫 How to reach me - 
       phone - +8801722944288
       email - ahsifat321@gmail.com
