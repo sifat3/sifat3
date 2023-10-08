@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ashraful Haque Sifat
-- 👀 My Portfolio - www.sifat.info
+- 👋 I’m @Ashraful Haque Sifat
+- 👀 My Portfolio - www.ibizn.com/sifat
 - 📫 How to reach me - 
       phone: +8801722944288,
-      email: ahsifat321@gmail.com
+      email: sifat@ibizn.com
 
